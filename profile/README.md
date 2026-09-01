@@ -6,6 +6,8 @@ This is where I build products, developer tools, infrastructure, and experiments
 
 ### What's here
 
+**[Pinocchio AMM](https://github.com/abhineetlabs/pinocchio-amm)** - A constant-product AMM for two SPL tokens, implemented with Pinocchio and tested with LiteSVM.
+
 **[Rust Memory Visualizer](https://github.com/abhineetlabs/rust-memory-visualizer)** - Interactive browser tool that visualizes where Rust code allocates memory - stack, heap, .rodata, .data, .bss, and .text. Paste any Rust code, see colored memory maps with pointer arrows, step through execution with dynamic RSP/RBP tracking, and drag segments to rearrange. Zero dependencies, no backend. 
 
 **[Solana Smart Contract Benchmark](https://github.com/abhineetlabs/solana-smart-contract-benchmark)** - A local benchmark harness for evaluating LLM performance on Solana smart contract generation and repair tasks. **Website:** [Link](https://abhineetbiju.com/benchmark) 
